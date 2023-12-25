@@ -1,0 +1,36 @@
+/* index.html için css*/
+
+p {
+    color: red;
+    text-align: center;
+}
+
+a {
+    color:#09df37;
+}
+
+ul {
+    text-align: left;
+    display: inline-block;
+    color: #5F0F40;
+}
+
+div {
+    text-align: center;
+}
+/* items için css */
+
+ol img {
+    text-align: center;
+    width: 6cm;
+    height: 6cm;
+    align-content: flex-end;
+    
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+    color: #637E76;
+}
+
